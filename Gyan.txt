@@ -1,0 +1,28 @@
+
+Run time enviorment => programming for tool (Browser/Server)
+jS dosent work independly. so wants to run time enviorment.
+
+
+front end
+html,
+css,
+JS => Angular, React, Vue , JQuery
+
+
+
+back end
+python
+java
+c#
+perl
+Go
+JS
+
+
+Data base
+Mqsql
+Sqlserver
+MongoDB
+Oracle
+
+
